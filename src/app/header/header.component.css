@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: cornflowerblue;
+  height: var(--header-height);
+  padding: 0 1rem;
+}
+
+header h1 {
+  margin: 0;
+}

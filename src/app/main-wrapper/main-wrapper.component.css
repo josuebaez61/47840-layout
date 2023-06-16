@@ -1,0 +1,6 @@
+main {
+  padding: 1rem;
+  background-color: aqua;
+  margin-left: var(--sidebar-width);
+  min-height: calc(100vh - var(--header-height));
+}
